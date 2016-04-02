@@ -2,7 +2,7 @@
 
 /*
  *Josiano Carvalho
- * Teste realizado para Quata Investimentos.
+ * 
  * 
  * 
  */
